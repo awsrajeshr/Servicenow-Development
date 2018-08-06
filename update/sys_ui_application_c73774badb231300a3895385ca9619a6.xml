@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Visa Processing</name>
+        <order/>
+        <roles>x_222139_visa_proc.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 15:09:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c73774badb231300a3895385ca9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visa Processing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Visa Processing" source="x_222139_visa_proc">ea37fc7adb231300a3895385ca961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visa Processing">ea37fc7adb231300a3895385ca961981</sys_scope>
+        <sys_update_name>sys_ui_application_c73774badb231300a3895385ca9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 15:09:22</sys_updated_on>
+    </sys_ui_application>
+</record_update>

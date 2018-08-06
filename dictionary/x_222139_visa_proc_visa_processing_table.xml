@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Visa Processing Table" max_length="40" name="x_222139_visa_proc_visa_processing_table" type="collection"/>
+</database>

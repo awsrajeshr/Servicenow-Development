@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Visa Processing Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Visa Processing Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 15:09:21</sys_created_on>
+        <sys_id>fa3774badb231300a3895385ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visa Processing Table</sys_name>
+        <sys_package display_value="Visa Processing" source="x_222139_visa_proc">ea37fc7adb231300a3895385ca961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visa Processing">ea37fc7adb231300a3895385ca961981</sys_scope>
+        <sys_update_name>sys_wizard_answer_fa3774badb231300a3895385ca96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 15:09:21</sys_updated_on>
+        <table/>
+        <target_url>x_222139_visa_proc_visa_processing_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
